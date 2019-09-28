@@ -1,0 +1,11 @@
+# Don't automatically close offensive PRs/issues
+daysUntilClose: false
+# Comment to post when marking as profanity.
+markComment: >
+  This issue has been automatically marked as inappropriate because
+  it uses uninclusive language. Please modify the PR updating this
+  language to be more inclusive.
+# Comment to post when removing the inappropriate label.
+unmarkComment: >
+  Uninclusive language appears to have been removed. Thank you for
+  keeping things welcoming!
